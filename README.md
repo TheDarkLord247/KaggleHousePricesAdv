@@ -1,3 +1,3 @@
 # KaggleHousePricesAdv
 
-Submission for Kaggle's House Prices: Advanced Regression Techniques competition
+Submission for Kaggle's House Prices: Advanced Regression Techniques competition using linear regression
